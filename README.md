@@ -1,7 +1,10 @@
 Installation Note - How to install and run the Software 
 Prerequisite
+
 NetBeans Ver 6.9 and MySQL 5.1 or higher version must be installed on the PC to run the program. 
+
 Database Installation
+
 The software project is distributed with a backup copy of a Database named QUIZ with required tables. Some dummy records are also present in the tables for testing purposes, which can be deleted before inserting real data. A sql script Quizdb.sql is provided for this purpose.
 To install database from Quizdb.sql, simply follow the following procedure.
 Step 1:
