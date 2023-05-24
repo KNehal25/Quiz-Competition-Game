@@ -7,6 +7,7 @@ Database Installation
 
 The software project is distributed with a backup copy of a Database named QUIZ with required tables. Some dummy records are also present in the tables for testing purposes, which can be deleted before inserting real data. A sql script Quizdb.sql is provided for this purpose.
 To install database from Quizdb.sql, simply follow the following procedure.
+
 Step 1: Reset the MySql password and make new root password (raj), if any other password is given by launching MySQL Server Instance config wizard (StartðProgramsðMySQLðMySQL server instance Config wizard ).
 Give current password and new password as “raj” for root.
 
