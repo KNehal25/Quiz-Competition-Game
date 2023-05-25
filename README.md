@@ -22,8 +22,14 @@ C:\.....> CD C:\Program files\Mysql\MySql server 5.1\Bin
 Step 5: Type the following command on above DOS prompt.
 C:\….\bin> mysql -u root -pkvuc Quizy  <quizdb.sql
 This will create a library database with tables and records at target machine.
+
 Note:
+
 1. Don’t give space between –p and your password.
+
 2. The quizdb.sql  file must be present in Bin folder.
-How to run the Program 
+
+
+How to run the Program:-
+
 To run the software open NetBeans and open the project (File ð Open) and browse the Quiz project from the location where the Quiz project folder exist. After loading the project choose Run command to run the program.
